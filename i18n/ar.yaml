@@ -1,0 +1,226 @@
+# Navigation
+
+- id: toggle_navigation
+  translation: التنقل
+
+- id: table_of_contents
+  translation: الفهرس
+
+- id: on_this_page
+  translation: المحتوى
+
+- id: back_to_top
+  translation: الرجوع
+
+# General
+
+- id: related
+  translation: ذات علاقة
+
+- id: minute_read
+  translation: مدة القراءة
+
+- id: previous
+  translation: السابق
+
+- id: next
+  translation: التالي
+
+- id: figure
+  translation: "رسم %d:"
+
+- id: edit_page
+  translation: تعديل الصفحة
+
+# Buttons
+
+- id: btn_preprint
+  translation: طباعة
+
+- id: btn_pdf
+  translation: بي دي اف
+
+- id: btn_cite
+  translation: اقتباس
+
+- id: btn_slides
+  translation: شرائح العرض
+
+- id: btn_video
+  translation: فيديو
+
+- id: btn_code
+  translation: كود
+
+- id: btn_dataset
+  translation: قاعدة بيانات
+
+- id: btn_project
+  translation: مشروع
+
+- id: btn_poster
+  translation: ملصق علمي
+
+- id: btn_source
+  translation: مصدر المستند
+
+- id: btn_copy
+  translation: تسخ
+
+- id: btn_download
+  translation: تحميل
+
+# About widget
+
+- id: interests
+  translation: الاهتمامات
+
+- id: education
+  translation: التعليم
+
+- id: user_profile_latest
+  translation: آخر
+
+# Accomplishments widget
+
+- id: see_certificate
+  translation: الشهادة
+
+# Experience widget
+
+- id: present
+  translation: الآن
+
+# Pages widget
+
+- id: more_pages
+  translation: الكل
+
+- id: more_posts
+  translation: الكل
+
+- id: more_talks
+  translation: الكل
+
+- id: more_publications
+  translation: الكل
+
+# Contact widget
+
+- id: contact_name
+  translation: الاسم
+
+- id: contact_email
+  translation: الايميل
+
+- id: contact_message
+  translation: التواصل
+
+- id: contact_send
+  translation: ارسل
+
+- id: book_appointment
+  translation: احجز موعد
+
+# Publication/Talk details
+
+- id: abstract
+  translation: الملخص
+
+- id: publication
+  translation: المنشورات العلمية
+
+- id: publication_type
+  translation: نوع المنشور
+
+- id: date
+  translation: التاريخ
+
+- id: last_updated
+  translation: آخر تحديث
+
+- id: event
+  translation: المناسبة
+
+- id: location
+  translation: المكان
+
+- id: pub_uncat
+  translation: غير مصنف
+
+- id: pub_conf
+  translation: ورقة علمية في مؤتمر
+
+- id: pub_journal
+  translation: مقالة في مجلة هلمية
+
+- id: pub_preprint
+  translation: نسخة قبل النشر
+
+- id: pub_report
+  translation: تقرير
+
+- id: pub_book
+  translation: كتاب
+
+- id: pub_book_section
+  translation: فصل من كتاب
+
+- id: pub_thesis
+  translation: رسالة علمية
+
+- id: pub_patent
+  translation: براءة الإختراع
+
+# Project details
+
+- id: open_project_site
+  translation: انتقل إلى المشاريع
+
+# Default titles for archive pages
+
+- id: posts
+  translation: المقالات والتدوينات
+
+- id: publications
+  translation: المنشورات العلمية
+
+- id: talks
+  translation: المشاركات
+
+- id: projects
+  translation: المشاريع
+
+# Search
+
+- id: search
+  translation: بحث
+
+
+- id: search_placeholder
+  translation: بحث...
+
+- id: search_results
+  translation: العثور على نتائج
+
+- id: search_no_results
+  translation: لم يتم العثور على نتائج
+
+# Error 404
+
+- id: page_not_found
+  translation: الصفحة غير موجودة
+
+- id: 404_recommendations
+  translation: ربما كنت تبحث عن واحدة من هذه؟
+
+# Cookie consent
+
+- id: cookie_message
+  translation: يستخدم هذا الموقع ملفات تعريف الارتباط لضمان حصولك على أفضل تجربة على موقعنا.
+
+- id: cookie_dismiss
+  translation: تم
+
+- id: cookie_learn
+  translation: للمزيد
